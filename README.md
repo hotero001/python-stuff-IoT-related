@@ -1,0 +1,1 @@
+Planning the app that will be required to control the blinds from a Raspberry Pi. This required re-learning some python stuff
